@@ -19,4 +19,4 @@ For run app:
     
 ## Ekran Görüntüleri
 
-![App Gif](https://github.com/baverkacar/currency-converter/blob/main/main/screenshots/flask-currency.gif?raw=true)
+![App Gif](https://github.com/baverkacar/currency-converter/blob/main/main/screenshots/currency.gif?raw=true)
